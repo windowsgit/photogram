@@ -11,3 +11,5 @@ The source code for the guide found [over here at devwalks!](http://www.devwalks
 [Part 2 - Test Driven](http://www.devwalks.com/bdd-handbook-lets-build-instagram-with-rails-part-2/)
 
 [Part 3 - Fabulous Forms & Pagination](http://www.devwalks.com/lets-build-instagram-part-3-fabulous-forms-pleasant-pagination/)
+
+![Codeship Status](https://codeship.com/projects/76c18cd0-57b5-0134-8663-764d56e89c26/status?branch=master)
